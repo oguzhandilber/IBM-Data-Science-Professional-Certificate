@@ -20,7 +20,7 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
     -From Problem to Approach
     -Concepts of Modeling and Evaluation
 
- **Python for Data Science and AI**
+ **Python for Data Science & AI**
     
     -Data Structures
     -Loops, Functions, Classes
