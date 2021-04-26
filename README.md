@@ -34,7 +34,7 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
     
  **Python Project**
     
-    -Collecting Data using Webscraping and API. 
+    -Collecting Data using Webscraping and API's. 
 
  **Data Analysis with Python**
     
