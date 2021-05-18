@@ -24,7 +24,7 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
     
     -Data Structures
     -Loops, Functions, Classes
-    -Pandas, Numpy
+    -Pandas, Numpy.
 
  **Databases and SQL for Data Science**
     
