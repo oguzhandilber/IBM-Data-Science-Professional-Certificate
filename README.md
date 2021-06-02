@@ -53,6 +53,6 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
     
     -Regression Algorithms          (Linear Regression, Non-Linear Regression)  
     -Classificaiton Algorithms      (K-Nearest Neighbours, Decision Trees, Logistic Regression, Support Vector Machine)
-    -Clustering Algorithms          (K-Means Clustering, Hierarchical Clustering, Density-based Clustering)
+    -Clustering Algorithms          (K-Means Clustering, Hierarchical Clustering, Density-Based Clustering)
     -Recommendation Algorithms      (Collaborative Filtering, Content-Based Filtering)
  
